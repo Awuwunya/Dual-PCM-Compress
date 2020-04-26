@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dual PCM Compress", "Dual PCM Compress\Dual PCM Compress.csproj", "{62AF7760-CBDE-4169-8497-A68EEBEB567B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AF7760-CBDE-4169-8497-A68EEBEB567B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AF7760-CBDE-4169-8497-A68EEBEB567B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AF7760-CBDE-4169-8497-A68EEBEB567B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AF7760-CBDE-4169-8497-A68EEBEB567B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6196B4FB-C8AA-4E23-8C6C-16187383C745}
+	EndGlobalSection
+EndGlobal
